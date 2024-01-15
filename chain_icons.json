@@ -191,6 +191,14 @@
     "format": "png"
   }]
 }, {
+  "name": "metachain",
+  "icons": [{
+    "url": "ipfs://QmUH2Ph2hW4upvevEAGCaSo7nd8nthqMx5RrHcrnNZ9Y3g",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
+  }]
+}, {
   "name": "altcoinchain",
   "icons": [{
     "url": "ipfs://QmYwHmGC9CRVcKo1LSesqxU31SDj9vk2iQxcFjQArzhix4",
@@ -332,6 +340,14 @@
     "url": "ipfs://bafkreie3ba6ofosjqqiya6empkyw6u5xdrtcfzi2evvyt4u6utzeiezyhi",
     "width": 1500,
     "height": 1500,
+    "format": "png"
+  }]
+}, {
+  "name": "paxb",
+  "icons": [{
+    "url": "ipfs://QmSP66CHynXpMYkjV28uLjTR4kjuoJyy92igYYpvLoqHtG",
+    "width": 300,
+    "height": 300,
     "format": "png"
   }]
 }, {
@@ -1295,6 +1311,14 @@
     "format": "png"
   }]
 }, {
+  "name": "blx",
+  "icons": [{
+    "url": "ipfs://QmXM7XiLdSxhCub8MLSSo2J9V2qAkTcwdAGxcT57kurUzg",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "kalarchain",
   "icons": [{
     "url": "ipfs://bafkreihfoy2kgf2rebaoicso7z5h7ju46z6gtr64mskkths3qbfkrtnkjm",
@@ -1967,6 +1991,14 @@
     "format": "png"
   }]
 }, {
+  "name": "etherlink",
+  "icons": [{
+    "url": "ipfs://QmVqE4wq3fd3RKZwo7GxmW333ywHgYBZGvqwh3TUBM5DUi",
+    "width": 584,
+    "height": 545,
+    "format": "png"
+  }]
+}, {
   "name": "doken",
   "icons": [{
     "url": "ipfs://bafkreifms4eio6v56oyeemnnu5luq3sc44hptan225lr45itgzu3u372iu",
@@ -2471,6 +2503,14 @@
     "format": "png"
   }]
 }, {
+  "name": "mthn",
+  "icons": [{
+    "url": "ipfs://bafkreia5q26knsvxgkwxze7woepvsqat5n2hodokh4ozzphmhexqez5s34",
+    "width": 100,
+    "height": 100,
+    "format": "png"
+  }]
+}, {
   "name": "globelchain",
   "icons": [{
     "url": "ipfs://QmPRHDsVNpRZ72GoQgDbpa3R4wKENmrXCRNuYJkxocFRDb",
@@ -2580,6 +2620,14 @@
     "url": "ipfs://QmVbzZYXdVFY3uFaWQd7iSRtdM2UKWohj9fVqqEwxcw2RV",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "tangle",
+  "icons": [{
+    "url": "ipfs://QmbxMNBTeQgch8t9GpWdLiS2R3wPYCzVRaX5kCQ4o5QU3w",
+    "width": 1600,
+    "height": 1600,
     "format": "png"
   }]
 }, {
@@ -3281,9 +3329,9 @@
 }, {
   "name": "ancient8",
   "icons": [{
-    "url": "ipfs://QmSX8sHToRzyFupT8BvPQjVsegRWFYz2mdnLkVnqBFKohY",
-    "width": 901,
-    "height": 901,
+    "url": "ipfs://QmXLmYMqZ2ZKyaaEjayNjLai4RUo2YmorUDwkk95xmdTUr",
+    "width": 80,
+    "height": 80,
     "format": "png"
   }]
 }, {
@@ -3476,6 +3524,14 @@
     "url": "ipfs://QmSEsi71AdA5HYH6VNC5QUQezFg1C7BiVQJdx1VVfGz3g3",
     "width": 713,
     "height": 830,
+    "format": "png"
+  }]
+}, {
+  "name": "deelance",
+  "icons": [{
+    "url": "ipfs://Qmay2j8biuo5xLJL8NcLtrzubAEHuCWz65cdbKE1pSnGf6",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
@@ -3677,6 +3733,14 @@
     "width": 200,
     "height": 200,
     "format": "png"
+  }]
+}, {
+  "name": "haven1",
+  "icons": [{
+    "url": "ipfs://QmbSwngVDEiGaw3JzdME7fz5mYBWKbbz1ZerTpimaAxNXR",
+    "width": 32,
+    "height": 33,
+    "format": "svg"
   }]
 }, {
   "name": "altlayer",
